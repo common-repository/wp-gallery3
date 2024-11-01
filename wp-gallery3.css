@@ -1,0 +1,17 @@
+#wpgallery3-donate {
+	width: 350px;
+	margin: 30px auto 0px auto;
+	padding: 20px;
+	border: 2px solid #c90;
+	background-color: #ff9;
+	
+	-moz-border-radius: 5px;
+	-khtml-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+}
+
+#wpgallery3-donate form {
+	margin: 40px;
+	text-align: center;
+}

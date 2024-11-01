@@ -1,0 +1,68 @@
+table.wpgal
+{
+	border: none;
+}
+
+tr.wpgal
+{
+	border: none;
+}
+td.wpgal3albumoff
+{
+	text-decoration:none;
+	color:black;
+	background-color:#E8E8E8;
+	border: 1px solid #E8E8E8;
+	text-align: center;
+	vertical-align: middle;
+	height: 200px;
+	padding-right:  5px;
+	padding-left:   5px;
+	padding-top:    5px;
+	padding-bottom: 5px;
+}
+
+td.wpgal3albumon
+{
+	text-decoration:none;
+	color:black;
+	background-color: #E8E8E8;
+	border: 1px solid #000000;
+	text-align: center;
+	vertical-align: middle;
+	height: 200px;
+	padding-right:  5px;
+	padding-left:   5px;
+	padding-top:    5px;
+	padding-bottom: 5px;
+}
+
+td.wpgallery3photooff
+{
+	text-decoration:none;
+	color:black;
+	background-color: #FFFFFF;
+	border: 1px solid #FFFFFF;
+	text-align: center;
+	vertical-align: middle;
+	height: 170px;
+	padding-right:  5px;
+	padding-left:   5px;
+	padding-top:    5px;
+	padding-bottom: 5px;
+}
+
+td.wpgallery3photoon
+{
+	text-decoration:none;
+	color:black;
+	background-color: #FFFFFF;
+	border: 1px solid #000000;
+	text-align: center;
+	vertical-align: middle;
+	height: 170px;
+	padding-right:  5px;
+	padding-left:   5px;
+	padding-top:    5px;
+	padding-bottom: 5px;
+}
